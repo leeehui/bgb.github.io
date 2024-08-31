@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "start with pico"
 date: 2024-08-31
 categories: blog
